@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kc-dev.onrender.com/](https://kc-dev.onrender.com/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1j2IwD_Qktkplp-oX_LWTf0QFEFz6acnE/view?usp=drive_link](https://drive.google.com/file/d/1j2IwD_Qktkplp-oX_LWTf0QFEFz6acnE/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1JmFzO72u9mx2-pgwL40T4wb6YdatT1Zi/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
