@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Typescript and Next js**
 
-- 👨‍💻 All of my projects are available at [https://kc-dev.onrender.com/](https://kc-dev.onrender.com/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://kc-dev.onrender.com/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JmFzO72u9mx2-pgwL40T4wb6YdatT1Zi/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JmFzO72u9mx2-pgwL40T4wb6YdatT1Zi/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
